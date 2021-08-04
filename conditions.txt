@@ -1,0 +1,17 @@
+if it's hot
+    It's a hot day
+    Drink plenty of water
+otherwise if it's cold
+    It's a cold day
+    Wear warm clothes
+otherwise
+    It's a lovely day
+
+
+
+if Temperature is higher than 30
+    It's a hot day
+otherwise if it's less than 10
+    It's a cold day
+otherwise
+    it's neither hot nor cold
